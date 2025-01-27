@@ -1,0 +1,41 @@
+body {
+  font-family: "Press Start 2P", cursive;
+  background: #050a30;
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ff914d;
+  text-decoration: none;
+}
+
+footer {
+  background: #ff914d;
+}
+
+footer p {
+  color: #050a30;
+}
+.nav-link {
+  color: #050a30;
+}
+
+.custom-text-shadow {
+  text-shadow: rgba(255, 145, 77, 0.4) 4.83188px 4.83188px 0px;
+}
+
+.btn-outline-customBtnColor {
+  color: #ff914d;
+  outline: #ff914d solid 1px;
+}
+
+.btn-outline-customBtnColor:hover {
+  background-color: #ff914d;
+  color: #050a30;
+}
